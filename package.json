@@ -1,0 +1,16 @@
+{
+  "name": "download-cldr",
+  "version": "1.0.0",
+  "description": "Downloads CLDR zip-files",
+  "main": "index.js",
+  "scripts": {
+    "download": "node index.js"
+  },
+  "author": "Steven",
+  "license": "ISC",
+  "dependencies": {
+    "duration": "^0.2.0",
+    "md5-file": "^3.2.3",
+    "request": "^2.85.0"
+  }
+}
